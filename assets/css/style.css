@@ -29,7 +29,6 @@ a {
     margin-left: 25px;
 }
 
-/*Top Header*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -37,12 +36,14 @@ a {
     color: #ffffff;
 }
 
+/*Top Header*/
+
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
-.header div {
+.header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -50,9 +51,10 @@ a {
     font-size: 20px;
 }
 
-.header div ul li {
+.header nav ul li {
     display: inline-block;
     margin-left: 25px;
+    text-align: right;
 }
  
 /*Main Picture*/
@@ -82,7 +84,6 @@ a {
     background-color: #0072bb;
     color: #ffffff;
 }
-
 
 .Content-div img {
     max-height: 200px;
