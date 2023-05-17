@@ -44,7 +44,7 @@ a {
 }
 
 .header nav {
-    padding-top: 15px;
+    padding-top: 25px;
     margin-right: 20px;
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -94,7 +94,7 @@ a {
     font-size: 36px;
 }
 
-/*Right Side Content*/
+/*Aside Content*/
 
 .benefits-container {
     margin-right: 20px;
