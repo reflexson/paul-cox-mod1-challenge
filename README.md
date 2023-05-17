@@ -26,7 +26,7 @@ simply navigate to the website or source code to interact with this project.
 
 Here is a screenshot of the resulting site
 
-![alt text](assets/images/screenshot.png)
+![alt text](assets/images/Screenshot.png)
 
 ## Credits
 
